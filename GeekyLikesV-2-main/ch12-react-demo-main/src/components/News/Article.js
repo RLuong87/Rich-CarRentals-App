@@ -5,6 +5,7 @@ const Article = (props) => {
   //requires a props.article
   const {urlToImage, title, description, source} = props.article
 
+  
   return (
     <BorderCard style={{minWidth: '1000px'}}>
       <div style={{display: 'flex', flexDirection: 'row'}}>

@@ -4,6 +4,7 @@ import Form from '../common/Form';
 import InlineInputContainer from '../common/InlineInputContainer';
 import Input from '../common/Input';
 
+
 const NewUserForm = (props) => {
   const {query, updateForm, onSubmit} = props;
 

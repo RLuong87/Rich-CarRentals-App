@@ -1,6 +1,7 @@
 import React from 'react';
 import CounterBox from './CounterBox';
 
+
 const CounterBoxes = (props) => {
   // props.count = a number
   // print out count boxes

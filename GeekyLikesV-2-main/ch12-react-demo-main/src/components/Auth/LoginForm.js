@@ -4,6 +4,7 @@ import Input from "../common/Input";
 import FaButton from "../faCommon/FaButton";
 import InlineInputContainer from "../common/InlineInputContainer";
 
+
 const LoginForm = ({ query, submitting, updateForm, onSubmit }) => {
   const handleChange = (e) => {
     updateForm(e.target.id, e.target.value);

@@ -8,6 +8,7 @@ const AuthProvider = (props) => {
   //if this was a data collecting provider 
   //the use effect method would go here
 
+  
   return (
     <AuthContext.Provider value={[auth, setAuth]}>
       {props.children}

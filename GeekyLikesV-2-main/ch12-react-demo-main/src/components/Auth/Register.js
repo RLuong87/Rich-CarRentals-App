@@ -4,6 +4,7 @@ import axios from 'axios';
 import {AuthContext} from '../Providers/AuthProvider';
 import { useNavigate } from 'react-router-dom'
 
+
 const Register = () => {
 
   let navigate = useNavigate();

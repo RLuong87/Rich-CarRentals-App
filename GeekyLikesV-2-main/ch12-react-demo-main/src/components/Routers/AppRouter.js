@@ -7,6 +7,7 @@ import Login from '../Auth/Login';
 import Register from '../Auth/Register';
 import Developers from '../Developers/Developers';
 
+
 const AppRouter = () => {
 
   return (

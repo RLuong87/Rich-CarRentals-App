@@ -1,6 +1,7 @@
 import React from 'react';
 import Articles from './Articles';
 
+
 const News = () => {
   return (
     <div style={{

@@ -16,6 +16,7 @@ const Home = () => {
     setCount(count - 1);
   }
 
+  
   return (
     <InlineInputContainer>
       <Input

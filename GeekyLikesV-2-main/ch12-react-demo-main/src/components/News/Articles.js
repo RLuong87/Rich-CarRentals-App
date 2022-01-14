@@ -8,6 +8,7 @@ import Input from "../common/Input";
 import Button from "../common/Button";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
+
 const Articles = () => {
   const { articles, loading, setQuery } = useContext(NewsContext);
   const [q, setQ] = useState("");

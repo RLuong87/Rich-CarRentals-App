@@ -5,6 +5,7 @@ const NavButton = (props) => {
   // const [display, setDisplay] = useState(false);
   const [hover, setHover] = useState(false);
 
+  
   const style = {
     background: "transparent",
     // margin: ".2em",

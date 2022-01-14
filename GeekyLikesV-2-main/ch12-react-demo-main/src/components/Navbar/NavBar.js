@@ -6,6 +6,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 const NavBar = (props) => {
   const [auth] = useContext(AuthContext);
 
+  
   return (
     <nav
       style={{

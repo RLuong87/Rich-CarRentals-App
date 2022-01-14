@@ -3,6 +3,7 @@ import axios from 'axios';
 
 const NewsContext = React.createContext({});
 
+
 const NewsProvider = (props) => {
   const [articles, setArticles] = useState([]);
   const [loading, setLoading] = useState(true);
