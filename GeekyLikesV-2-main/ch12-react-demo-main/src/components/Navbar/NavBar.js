@@ -28,7 +28,7 @@ const NavBar = (props) => {
           padding: "0em 1.2em",
         }}
       >
-        <h1 style={{ color: "black" }}>Rich Car Rentals</h1>
+        <h1 style={{ color: "black" }}>Expressian</h1>
         <FontAwesomeIcon icon={["fas", "car"]} />
       </div>
       <div
